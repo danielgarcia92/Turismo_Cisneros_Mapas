@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/mBar" android:title="@string/sBar"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/mHotel" android:title="@string/sHotel"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/mTurismo" android:title="@string/sTurismo"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/mDemografia" android:title="@string/sDemografia"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <!--<item android:id="@+id/mMapas" android:title="@string/sMapas"
+        android:orderInCategory="100" app:showAsAction="never" />-->
+    <item android:id="@+id/mMenu" android:title="@string/mMenu"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/mAcercade" android:title="@string/info"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>

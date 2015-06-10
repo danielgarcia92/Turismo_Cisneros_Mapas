@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<resources>
+    <!-- Base application theme. -->
+
+    <color name="custom_theme_color">@color/whitesmoke</color>
+
+    <style name="CustomTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowBackground">@color/custom_theme_color</item>
+        <item name="android:colorBackground">@color/custom_theme_color</item>
+        <item name="android:textColor">@color/darkorange</item>
+        <item name="android:typeface">monospace</item>
+        <item name= "colorPrimary">@color/darkorange</item>
+    </style>
+
+</resources>

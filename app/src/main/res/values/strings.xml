@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+
+<resources>
+
+    <string name="app_name">Turismo Cisneros</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mMenu">Menú</string>
+    <string name="info">Acerca De ...</string>
+    <string name="AcercaDe">Aplicación informativa sobre el municipio de Cisneros, Antioquia. Desarrollada por Yohrman Daniel García Vergara en el curso de Desarrollo de aplicaciones para Móviles de la Universidad de Antioquia.</string>
+    <string name="sHotel">Hoteles</string>
+    <string name="sBar">Bares</string>
+    <string name="sMapas">Localización</string>
+    <string name="sTurismo">Información Turística</string>
+    <string name="sDemografia">Información Demográfica</string>
+    <string name="TextLolita">HOTEL LOLITA: También conocido como hotel "los guamos". Calle Bolivar Nº 19B-31/33. Calle de "encima", Teléfono: 863 1693. Jornada contínua</string>
+    <string name="TextTrebol">TRÉBOL HOTEL: Allí encontrarás 23 habitaciones con: TV por cable, Ventilador o Aire Acondicionado, WiFi, Agua caliente y Servicio de Restaurante. Calle 21 # 17 - 74. Teléfonos: 8631235 - 3136679507. Jornada contínua</string>
+    <string name="TextHosteria">HOSTERIA BRISAS DEL NÚS: Ubicado el el kilometro 1 de la salida a Medellin. Barrio el uno. Telefonos: 863 1794 - 863 2420. Horario de Lunes a Domingo de 6:00 a.m. a 9:00 p.m.</string>
+    <string name="TextBarber">BARBER SHOP: Es uno de los mejores sitios para la rumba en Cisneros. Ubicado en el parque principal, en el tercer piso del hotel el Turista. También encuentras: BARBER GYM, BARBER DISCO, BARBER FOOD, BARBER STUNT. Administradores: Carlos Andres Parra y Diego León Rios</string>
+    <string name="TextBabaros">BABAROS: Maneja un ambiente tranquilo que disfrutan sus clientes, propicio para disfrutar con amigos y familiares. Ubicados en el pasaje comercial, contiguo a la plaza de mercado, al frente de la sede de EPM.</string>
+    <string name="TextJaras">JARAS: Es uno de los sitios preferidos por los Cisneros para disfrutar de la fiesta. Ubicados en el parque principal, en la "esquinaroja". Allí encuentras música variada y un ambiente de rumba inigualable. Administradores: Julian Jaramillo y Alejandra Jaramilo</string>
+    <string name="TextCharcos">CHARCOS: Una tradición muy propia de los antioqueños es salir de paseo el 6 de enero. En años pasados, este destino turístico era muy visitado. Cientos de familias salían en tren a hacer su sancocho en los charcos y en la quebrada Santa Gertrudis.</string>
+    <string name="TextMuseo">ESTACIÓN MUSEO: Este espacio busca acercar a los antioqueños a la importancia del Ferrocarril de Antioquia como memoria viva del desarrollo social, histórico, económico y político de la región y el Departamento.</string>
+    <string name="TextLocomotora">LOCOMOTORA "LA 45": Monumento al Ferrocarril de Antioquia, primera locomotora que cruzó el Túnel de la Quiebra, situado en la avenida principal del municipio.</string>
+    <string name="TextMotorrodillo">MOTORRODILLO: Ruta del tren. Paseo en motorrodillo por Santiago, Cisneros y el limón. Valor: $60.000</string>
+    <string name="TextInfo1">Su economía ha estado sustentada principalmente en la cañicultura, la panela, el café y cultivos frutales. En segundo orden, el turismo ha contribuido de alguna manera al desarrollo de este renglón, especialmente cuando el ferrocarril estaba activo. Actualmente la empresa privada y el sector público trabajan para mejorar la infraestructura turística para que este municipio vuelva a ser uno de los destinos preferidos por los antioqueños. </string>
+    <string name="TextInfo2">Cisneros es un municipio de Colombia, localizado en la subregión Nordeste del departamento de Antioquia. Población Total: 12.439 hab. (2013). Población Urbana: 9.713. Población Rural: 2.726.</string>
+    <string name="title_activity_maps">Localización Geográfica de Cisneros</string>
+
+</resources>

@@ -1,0 +1,31 @@
+<resources>
+
+    <string name="app_name">Turism Cisneros</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mMenu">Menu</string>
+    <string name="info">About us ...</string>
+    <string name="AcercaDe">Mobile application about the town of Cisneros, Antioquia. Developed by Yohrman Daniel Garcia Vergara during mobile applications development for the University of Antioquia.</string>
+    <string name="sHotel">Hotels</string>
+    <string name="sBar">Bars</string>
+    <string name="sMapas">Location</string>
+    <string name="sTurismo">Turistic Information</string>
+    <string name="sDemografia">Demographic Information</string>
+    <string name="TextLolita">HOTEL LOLITA: Also known as hotel "los guamos". Bolivar Street No. 19B-31/33. "Calle de encima", Phone: 863 1693. Continuous journey</string>
+    <string name="TextTrebol">TRÉBOL HOTEL. Allí encontrarás 23 habitaciones con: TV por cable, Ventilador o Aire Acondicionado, WiFi, Agua caliente y Servicio de Restaurante. Calle 21 # 17 - 74. Teléfonos: 8631235 - 3136679507. Jornada contínua</string>
+    <string name="TextHosteria">HOSTERIA BRISAS DEL NÚS. Located 1 kilometer the output to Medellin. Neighborhood "El uno" Telephone: 863 1794 - 863 2420. From Monday to Sunday from 6:00 am to 9:00 pm</string>
+    <string name="TextBarber">BARBER SHOP: It is one of the best places to the party in Cisneros. Located in the main park, on the third floor of the Tourist hotel. You also find: BARBER GYM, BARBER DISCO, BARBER FOOD, BARBER STUNT. Administrators: Carlos Andres Parra and Diego Leon Rios</string>
+    <string name="TextBabaros">BABAROS: It is a place with a peaceful environment enjoyed by its customers, suitable to enjoy with family and friends. Located in the shopping arcade adjacent to the market square, in front of the headquarters of EPM.</string>
+    <string name="TextJaras">JARAS: It is one of the favorites places to enjoy the party in Cisneros. Located in the main park in the "esquinaroja". There you will find a variety of music and an environment of unparalleled party. Administrators: Julian Jaramillo and Alejandra Jaramilo</string>
+    <string name="TextCharcos">RIVER: An own tradition of people in Antioquia, is go for a walk on January 6. In past years, this tourist destination was very visited. Hundreds of families travelled by train to make their "sancocho" in the river and in the "Quebrada Santa Gertrudis".</string>
+    <string name="TextMuseo">MUSEUM: This space aims to bring the importance of Antioquia Antioquia Railroad as a living social, historical, economic and political development of the region and the Department memory.</string>
+    <string name="TextLocomotora">LOCOMOTIVE "THE 45", monument to the Railroad of Antioquia, the first locomotive to cross the tunnel of "La Quiebra", located on the main avenue of the town.</string>
+    <string name="TextMotorrodillo">MOTORRODILLO: Train Route: Ride in "motorrodillo", Santiago Cisneros and limón. Value: $ 60,000</string>
+    <string name="TextInfo1">Its economy has been based mainly in the sugarcane cultivation, sugar cane, coffee and fruit crops. In second place, tourism has contributed in some way to the development of this town, especially when the railroad was active. Currently the private sector and the public sector working to improve the tourist infrastructure for this town, that can become again in one of the favorite destinations Antioquia.</string>
+    <string name="TextInfo2">Cisneros is a municipality of Colombia, located in the Northeast subregion of the department of Antioquia. Total population: 12,439 habitants. (2013). Urban Population: 9,713. Rural Population: 2,726.</string>
+    <string name="title_activity_maps">Geographic location</string>
+
+</resources>
